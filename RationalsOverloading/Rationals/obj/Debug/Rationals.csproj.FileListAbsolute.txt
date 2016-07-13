@@ -1,0 +1,12 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Rationals\Rationals\bin\Debug\Rationals.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Rationals\Rationals\bin\Debug\Rationals.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Rationals\Rationals\bin\Debug\Rationals.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Rationals\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Rationals\Rationals\obj\Debug\Rationals.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Rationals\Rationals\obj\Debug\Rationals.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\RationalsOverloading\Rationals\bin\Debug\Rationals.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\RationalsOverloading\Rationals\obj\Debug\Rationals.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\RationalsOverloading\Rationals\obj\Debug\Rationals.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\RationalsOverloading\Rationals\bin\Debug\Rationals.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\RationalsOverloading\Rationals\bin\Debug\Rationals.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\RationalsOverloading\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
